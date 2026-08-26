@@ -122,10 +122,8 @@ I enjoy combining scientific thinking, research, and technology to solve problem
   
 - Assisted with maintaining safe and efficient laboratory operations.
 
-  
 ### Scientific Communication
  
-
 Since completing my studies, I have focused on professional development while continuing to engage with science through research-based writing and scientific communication.
 
 - Translate scientific literature into accessible content.
@@ -133,7 +131,7 @@ Since completing my studies, I have focused on professional development while co
 - Produce chemistry-related articles and blogs.
   
 - Continue expanding technical and analytical skills through training programmes.
-  
+
 ---
 
 ## ✍️ Publications & Writing
@@ -173,7 +171,7 @@ https://medium.com/@chemlord101
 - Email: curtisearltaylor@hotmail.com
   
 ---
- 
+
 ## ⚽ Interests
 
 Outside of work and study, I enjoy:
