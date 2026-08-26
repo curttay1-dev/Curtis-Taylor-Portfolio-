@@ -8,6 +8,28 @@ I enjoy combining scientific thinking, research, and technology to solve problem
  
 ---
 
+## Why I'm Here
+
+This GitHub profile is where I document my journey into technology, data, and programming.
+
+I am here to:
+ 
+- 📊 Build data analysis and data science projects
+
+- 🧪 Combine scientific research with modern technology
+  
+- 📈 Showcase practical projects and continuous learning
+  
+- 💻 Develop programming and technical skills
+  
+- 🤝 Collaborate with other learners and professionals
+  
+- 🚀 Create a portfolio that reflects my growth and abilities
+  
+I believe that science, data, and technology work best together to solve real-world problems, and GitHub provides the perfect platform to share that journey.
+
+---
+
 ## 🎓 Education
 
 ### University College London (UCL)
