@@ -36,7 +36,7 @@ I enjoy combining scientific thinking, research, and technology to solve problem
 
 ---
 ## 🔬 Scientific & Laboratory Skills
- 
+
 - Recrystallisation (Co-crystals)
   
 - Powder X-Ray Diffraction (PXRD)
