@@ -35,7 +35,6 @@ I enjoy combining scientific thinking, research, and technology to solve problem
 2026
 
 ---
- 
 ## 🔬 Scientific & Laboratory Skills
  
 - Recrystallisation (Co-crystals)
@@ -104,9 +103,7 @@ I enjoy combining scientific thinking, research, and technology to solve problem
 - Technical Communication
   
 ---
- 
 ## 💼 Experience
-
 
 ### Student Lab Technician
 
@@ -189,5 +186,4 @@ Outside of work and study, I enjoy:
 - Personal development
   
 ---
-
 > "Driven by curiosity, guided by science, and committed to continuous learning."
