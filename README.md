@@ -39,7 +39,7 @@ I enjoy combining scientific thinking, research, and technology to solve problem
 ## 🔬 Scientific & Laboratory Skills
  
 - Recrystallisation (Co-crystals)
-- 
+  
 - Powder X-Ray Diffraction (PXRD)
   
 - Single Crystal X-Ray Diffraction (SCXRD)
@@ -121,8 +121,8 @@ I enjoy combining scientific thinking, research, and technology to solve problem
 - Managed chemical storage, labelling, and inventory.
   
 - Assisted with maintaining safe and efficient laboratory operations.
+
   
- 
 ### Scientific Communication
  
 
@@ -134,8 +134,6 @@ Since completing my studies, I have focused on professional development while co
   
 - Continue expanding technical and analytical skills through training programmes.
   
- 
-
 ---
 
 ## ✍️ Publications & Writing
