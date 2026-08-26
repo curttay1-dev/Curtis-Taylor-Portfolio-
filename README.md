@@ -3,7 +3,6 @@
 ## About Me
 
 I'm a Chemistry graduate with a First Class BSc in Chemistry from London Metropolitan University and an MSc in Chemical Research from University College London (UCL). I have practical laboratory experience, strong analytical skills, and a growing interest in data and digital technologies through recent Data Skills and Digital & IT bootcamps.
-
 I enjoy combining scientific thinking, research, and technology to solve problems, communicate complex ideas, and continuously develop new skills.
  
 ---
